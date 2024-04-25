@@ -27,7 +27,7 @@ __*For an image of water drop :*__
 
 ![goutteCercle](https://github.com/Lxvxo/Snake-Segmentation-in-Image-Processing/assets/113984090/3d4c4343-ce9a-4fea-8383-e63c8c6b087a)
 
-__*Gadient :*__
+__*Gradient :*__
 
 ![gr](https://github.com/Lxvxo/Snake-Segmentation-in-Image-Processing/assets/113984090/803deebc-a3f8-4ec1-bd95-1f54fe3395e1)
 
